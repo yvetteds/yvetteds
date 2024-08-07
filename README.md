@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📄 Find my publications at **arXiv:2110.08456 & arXiv:2008.02941**
 
-<h3 align="left">Connect with me: [linkedin.com/in/yvette-de-sereville](linkedin.com/in/yvette-de-sereville)</h3>
+<h3 align="left">Connect with me: linkedin.com/in/yvette-de-sereville</h3>
 <p align="left">
 </p>
 
