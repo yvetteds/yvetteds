@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [contributing to QuTiP, an open source quantum software](https://github.com/qutip)
 
-- 🌱 I’m currently learning **Data Science part-time at BrainStation**
+- 🌱 I recently earned my **Data Science Certification from BrainStation**
 
 - 👯 I’m looking to collaborate on **open-source projects in quantum software**
 
