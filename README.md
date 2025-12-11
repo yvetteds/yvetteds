@@ -4,9 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m always interested in collaborating on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -15,11 +13,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yvette</h1>
 <h3 align="center">A results-oriented software engineer & research scientist</h3>
 
-- 🔭 I’m currently working on [contributing to QuTiP, an open source quantum software](https://github.com/qutip)
+- 🔭 I’m currently working as a Software Engineer on the Compiler team at IonQ. 
 
-- 🌱 I recently earned my **Data Science Certification from BrainStation**
-
-- 👯 I’m looking to collaborate on **open-source projects in quantum software**
+- 👯 I’m always interested in collaborating on **open-source projects in quantum software**
 
 - 👨‍💻 Some of my projects are available at [github.com/yvetteds](github.com/yvetteds)
 
@@ -27,9 +23,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ydesereville@uwaterloo.ca**
 
-- 📄 Know about my experiences [linkedin.com/in/yvette-de-sereville](linkedin.com/in/yvette-de-sereville)
+- 📄 Know about my experiences & reach me at: [linkedin.com/in/yvette-de-sereville](linkedin.com/in/yvette-de-sereville)
 
-- 📄 Find my publications at **arXiv:2110.08456 & arXiv:2008.02941**
+- 📄 Find my publications on the arXiv! 
 
 <h3 align="left">Connect with me: linkedin.com/in/yvette-de-sereville</h3>
 <p align="left">
