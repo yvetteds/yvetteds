@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yvette</h1>
 <h3 align="center">A results-oriented software engineer & research scientist</h3>
 
-- 🔭 I’m currently working as a Software Engineer on the Compiler team at IonQ. 
+- 🔭 I’m currently working as a Software Engineer on the Compiler team at IonQ
 
 - 👯 I’m always interested in collaborating on **open-source projects in quantum software**
 
